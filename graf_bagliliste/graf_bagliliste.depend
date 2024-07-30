@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1713117146 source:d:\neu2\class2_sezon2\algoritmalar\graf_bagliliste\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+
